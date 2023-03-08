@@ -14,3 +14,13 @@ void main()
     for(i=0;i<size;i++)
     printf("\t%d",arr[i]);
 }
+output:
+Enter the size of array=5
+Enter the elements of array---
+ Enter the 1 element3
+ Enter the 2 element32
+ Enter the 3 element67
+ Enter the 4 element89
+ Enter the 5 element4
+ Entered array ---
+	3	32	67	89	4
