@@ -46,4 +46,17 @@ Enter the elements of array---
  Array in 4 Iteration	0	4	5	9	67
  Array in 5 Iteration	0	4	5	9	67
  sorted array ---	0	4	5	9	67
+Enter the size of array=5
+Enter the elements of array---
+ Enter the 1 element5
+ Enter the 2 element9
+ Enter the 3 element67
+ Enter the 4 element0
+ Enter the 5 element4
+ Array in 1 Iteration	5	9	67	0	4
+ Array in 2 Iteration	5	9	0	4	67
+ Array in 3 Iteration	5	0	4	9	67
+ Array in 4 Iteration	0	4	5	9	67
+ Array in 5 Iteration	0	4	5	9	67
+ sorted array ---	0	4	5	9	67
  */
